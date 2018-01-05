@@ -51,7 +51,7 @@ A bar plot containing states and Average AT&C losses(Averaged over different DIS
 
 ![Screenshot](https://github.com/shivansh2524/ds200/blob/master/bar_plot_img.png)
 
-**Insights**: Highest losses occur in Nagaland. Status having extremme value of losses are Arunachal Pradesh and Nagaland. Not much varaiability is observed among other states.
+**Insights**: Highest losses occur in Nagaland. States having extremme value of losses are Arunachal Pradesh and Nagaland. Not much varaiability is observed among other states.
 
 
 The python code for generating above plot:

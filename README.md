@@ -37,7 +37,7 @@ A Snapshot of dataset is shown below:
 ```
 
 ### Motivation for the analysis of dataset 
-The losses that occur in power sector during the dustribution electrical power are prevalent and are a major cause of total commercial losses to power distribution corporations. The electrical distribution network achieving efficiencies more than 90% nowadays\[[1](https://blog.schneider-electric.com/energy-management-energy-efficiency/2013/03/25/how-big-are-power-line-losses/)]. **The major cause of these accentuated losses is unbilled energy, and analysis of these losses indirectly gives an idea about power theft in a given distribution network.**
+The losses that occur in power sector during the dustribution of electrical power are prevalent and are a major cause of total commercial losses to power distribution corporations. The electrical distribution network achieving efficiencies more than 90% nowadays\[[1](https://blog.schneider-electric.com/energy-management-energy-efficiency/2013/03/25/how-big-are-power-line-losses/)]. **The major cause of these accentuated losses is unbilled energy, and analysis of these losses indirectly gives an idea about power theft in a given distribution network.**
 
 ### Analysis and Code
 The analysis tries to extract the following insights from the given dataset.
